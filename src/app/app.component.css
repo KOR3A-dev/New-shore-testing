@@ -2,3 +2,7 @@
   border: 1px solid #000;
   border-radius: 15px;
 }
+
+input{
+  text-transform: uppercase;
+}
